@@ -1,0 +1,3 @@
+acme_parse_content_homepage:
+    path:     /
+    defaults: { _controller: AcmeParseContentBundle:Default:index }

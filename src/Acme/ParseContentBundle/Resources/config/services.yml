@@ -1,0 +1,4 @@
+services:
+#    acme_parse_content.example:
+#        class: Acme\ParseContentBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
